@@ -1,4 +1,4 @@
-# <h1 align="center">Laporan Praktikum Modul 6 - Doubly Linked List (Bagian Pertama)</h1>
+# <h1 align="center">Laporan Praktikum Modul 6 - Doubly Linked List</h1>
 <p align="center">Shafira Shifa Azahra - 109082500125</p>
 
 ## Dasar Teori
